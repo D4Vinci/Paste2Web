@@ -21,3 +21,5 @@ A python3 script that uses cl1p website to send and receive secret messages
 
 ##On Receiving
 ![alt img](https://github.com/D4Vinci/Paste2Web/blob/master/Receiving_Screenshot.JPG)
+
+*Warning: this script made only for educational purpose and author not responsible for any other wrong usage*
