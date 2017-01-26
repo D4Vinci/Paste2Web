@@ -1,6 +1,6 @@
 # Paste2Web - beta version
 A python3 script that uses cl1p website to send and receive secret messages 
-# Who does it work ?
+# How does it work ?
 -On sending it spliting the message to words then generates a **random word** and uses it in posting every word alone in a link and gives you a **key**
 
 -Now to receive you should contact the person who you want him to receive your secret message and send him the **random word** and the **key** or he won't be able to receive your message
@@ -22,4 +22,4 @@ A python3 script that uses cl1p website to send and receive secret messages
 ##On Receiving
 ![alt img](https://github.com/D4Vinci/Paste2Web/blob/master/Receiving_Screenshot.JPG)
 
-*Warning: this script made only for educational purpose and author not responsible for any other wrong usage*
+*Warning: this script made only for educational purpose and author not responsible for any wrong usage*
